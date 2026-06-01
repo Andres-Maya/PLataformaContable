@@ -1,0 +1,3 @@
+spring.data.mongodb.uri=mongodb+srv://<username>:<password>@<cluster>.mongodb.net/sistema_contable?retryWrites=true&w=majority
+spring.data.mongodb.database=sistema_contable
+server.port=8080
