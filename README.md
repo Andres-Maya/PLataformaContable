@@ -1,6 +1,6 @@
 ### Vista de Contexto:
 
-<img width="491" height="361" alt="Diagrama de Contexto drawio" src="https://github.com/user-attachments/assets/5be84124-7e0f-4ba2-b7f7-b407fb75695a" />
+<img width="521" height="221" alt="Diagrama de Contexto drawio" src="https://github.com/user-attachments/assets/bbb0d270-f4de-4269-9f3c-8758f3d251a8" />
 
 ### Vista Funcional:
 
